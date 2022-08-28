@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/WEBMAG/static/css/main.f57796ca.css",
-    "main.js": "/WEBMAG/static/js/main.d6208668.js",
+    "main.js": "/WEBMAG/static/js/main.0615f051.js",
     "static/js/787.84da4d0a.chunk.js": "/WEBMAG/static/js/787.84da4d0a.chunk.js",
     "static/media/noimage.jpg": "/WEBMAG/static/media/noimage.e23e9875dbd4efa4060e.jpg",
     "static/media/loading.gif": "/WEBMAG/static/media/loading.995d9cb14362504e664d.gif",
     "index.html": "/WEBMAG/index.html",
     "main.f57796ca.css.map": "/WEBMAG/static/css/main.f57796ca.css.map",
-    "main.d6208668.js.map": "/WEBMAG/static/js/main.d6208668.js.map",
+    "main.0615f051.js.map": "/WEBMAG/static/js/main.0615f051.js.map",
     "787.84da4d0a.chunk.js.map": "/WEBMAG/static/js/787.84da4d0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f57796ca.css",
-    "static/js/main.d6208668.js"
+    "static/js/main.0615f051.js"
   ]
 }
